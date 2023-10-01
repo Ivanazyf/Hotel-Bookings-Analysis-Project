@@ -5,5 +5,5 @@ Sometimes customers will cancel their reservations due to various reasons, which
 This project is mainly composed of the following steps:
 
 * Utilized Python to train Machine Learning models including Logistic Regression, KNN, LDA and QDA, based on over 100,000 rows of data.
-* Evaluated and selected the optimal model with the highest accuracy value to predict customers’ cancellation behavior 
+* Evaluated and selected the optimal model with the highest accuracy value of 83% to predict customers’ cancellation behavior 
 * Proposed business insights and business strategies to improve hotel’s profits and lower cancellation rates
